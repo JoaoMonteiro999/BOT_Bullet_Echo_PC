@@ -1,0 +1,5 @@
+-start the game and be on menu on game mode trios
+-open idle and open script
+-click option to run script
+-open the game in menu and click anywhere
+-let the magic hapen
